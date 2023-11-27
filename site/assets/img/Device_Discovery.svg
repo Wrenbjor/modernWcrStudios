@@ -1,0 +1,103 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg width="100%" height="100%" viewBox="0 0 1920 1080" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xml:space="preserve" xmlns:serif="http://www.serif.com/" style="fill-rule:evenodd;clip-rule:evenodd;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:1.5;">
+    <rect x="1363.02" y="109.11" width="411.54" height="316.088" style="fill:white;"/>
+    <g>
+        <ellipse cx="171.125" cy="205.769" rx="67.286" ry="34.425" style="fill:white;stroke:black;stroke-width:8.6px;"/>
+        <g transform="matrix(1,0,0,1,0,124)">
+            <ellipse cx="171.125" cy="205.769" rx="67.286" ry="34.425" style="fill:white;stroke:black;stroke-width:8.6px;"/>
+        </g>
+        <path d="M103.839,329.769L102.429,204.585" style="fill:none;stroke:black;stroke-width:8.6px;"/>
+        <path d="M238.949,332.772L239.59,202.662" style="fill:none;stroke:black;stroke-width:8.6px;"/>
+    </g>
+    <g>
+        <rect x="471.617" y="163.878" width="303.57" height="538.288" style="fill:white;stroke:black;stroke-width:8.6px;"/>
+        <g transform="matrix(1,0,0,1,-57.8973,137.702)">
+            <text x="571.764px" y="234.293px" style="font-family:'ArialMT', 'Arial', sans-serif;font-size:50.244px;">Python</text>
+            <text x="571.764px" y="286.181px" style="font-family:'ArialMT', 'Arial', sans-serif;font-size:50.244px;">Based</text>
+            <text x="571.764px" y="338.069px" style="font-family:'ArialMT', 'Arial', sans-serif;font-size:50.244px;">Network</text>
+            <text x="571.764px" y="389.956px" style="font-family:'ArialMT', 'Arial', sans-serif;font-size:50.244px;">Discovery</text>
+        </g>
+    </g>
+    <g transform="matrix(1,0,0,1,-18.7775,14.0831)">
+        <text x="831.519px" y="406.42px" style="font-family:'ArialMT', 'Arial', sans-serif;font-size:50.244px;">Step 1</text>
+    </g>
+    <g transform="matrix(1,0,0,1,-20.3423,-17.2127)">
+        <rect x="865.945" y="121.628" width="197.164" height="150.22" style="fill:white;stroke:black;stroke-width:8.6px;"/>
+        <g transform="matrix(1,0,0,1,0,-4.69438)">
+            <text x="887.852px" y="162.313px" style="font-family:'ArialMT', 'Arial', sans-serif;font-size:30px;">SEED</text>
+            <text x="887.852px" y="193.294px" style="font-family:'ArialMT', 'Arial', sans-serif;font-size:30px;">LIST</text>
+            <text x="887.852px" y="224.276px" style="font-family:'ArialMT', 'Arial', sans-serif;font-size:30px;">PRIMAR<tspan x="1003.99px " y="224.276px ">Y</tspan></text>
+            <text x="887.852px" y="255.257px" style="font-family:'ArialMT', 'Arial', sans-serif;font-size:30px;">I-BONE</text>
+        </g>
+    </g>
+    <path d="M447.382,275.359L473.182,262.459L447.382,249.559L447.382,275.359Z"/>
+    <path d="M270.522,275.359L244.722,262.459L270.522,249.559L270.522,275.359Z"/>
+    <path d="M452.542,262.459L265.362,262.459" style="fill:none;stroke:black;stroke-width:8.6px;"/>
+    <g transform="matrix(0.308219,0,0,1,699.759,-53.2029)">
+        <g transform="matrix(3.24444,-0,-0,1,-2270.33,53.2029)">
+            <path d="M819.802,222.157L845.602,209.257L819.802,196.357L819.802,222.157Z"/>
+            <path d="M800.987,222.157L775.187,209.257L800.987,196.357L800.987,222.157Z"/>
+            <path d="M824.962,209.257L795.827,209.257" style="fill:none;stroke:black;stroke-width:8.6px;"/>
+        </g>
+    </g>
+    <rect x="994.258" y="365.736" width="281.663" height="170.562" style="fill:rgb(255,159,89);stroke:black;stroke-width:8.6px;"/>
+    <g transform="matrix(0.3,0,0,0.321101,120.137,739.642)">
+        <rect x="994.258" y="365.736" width="281.663" height="170.562" style="fill:rgb(255,159,89);stroke:black;stroke-width:27.68px;"/>
+    </g>
+    <g transform="matrix(0.177778,0,0,0.201835,180.631,908.445)">
+        <rect x="994.258" y="365.736" width="281.663" height="170.562" style="fill:rgb(44,255,251);stroke:black;stroke-width:45.22px;"/>
+    </g>
+    <g transform="matrix(0.177778,0,0,0.201835,324.591,910.01)">
+        <rect x="994.258" y="365.736" width="281.663" height="170.562" style="fill:rgb(44,255,251);stroke:black;stroke-width:45.22px;"/>
+    </g>
+    <g transform="matrix(0.3,0,0,0.321101,281.311,739.642)">
+        <rect x="994.258" y="365.736" width="281.663" height="170.562" style="fill:rgb(255,159,89);stroke:black;stroke-width:27.68px;"/>
+    </g>
+    <g transform="matrix(0.3,0,0,0.321101,432.531,740.772)">
+        <rect x="994.258" y="365.736" width="281.663" height="170.562" style="fill:rgb(255,159,89);stroke:black;stroke-width:27.68px;"/>
+    </g>
+    <path d="M460.664,913.413L392.595,981.481" style="fill:none;stroke:black;stroke-width:8.6px;"/>
+    <path d="M804.116,446.723L778.316,459.623L804.116,472.523C797.666,466.073 797.666,453.173 804.116,446.723Z"/>
+    <path d="M968.458,446.723L994.258,459.623L968.458,472.523C974.908,466.073 974.908,453.173 968.458,446.723Z"/>
+    <path d="M798.956,459.623L973.618,459.623" style="fill:none;stroke:black;stroke-width:8.6px;"/>
+    <g transform="matrix(1,0,0,1,200.293,15.6479)">
+        <g transform="matrix(1.62626,0,0,1,-507.03,0)">
+            <path d="M964.527,578.939C964.527,544.177 947.173,515.956 925.798,515.956L848.341,515.956C826.966,515.956 809.612,544.177 809.612,578.939L809.612,731.506C809.612,766.267 826.966,794.489 848.341,794.489L925.798,794.489C947.173,794.489 964.527,766.267 964.527,731.506L964.527,578.939Z" style="fill:white;stroke:black;stroke-width:6.37px;"/>
+        </g>
+        <g transform="matrix(1,0,0,1,-7.82396,26.6015)">
+            <text x="840.908px" y="540.992px" style="font-family:'ArialMT', 'Arial', sans-serif;font-size:20px;">Ask Router For:</text>
+            <text x="840.908px" y="561.647px" style="font-family:'ArialMT', 'Arial', sans-serif;font-size:20px;">All Shelves</text>
+            <text x="840.908px" y="582.301px" style="font-family:'ArialMT', 'Arial', sans-serif;font-size:20px;">All L2 Connections</text>
+            <text x="840.908px" y="602.955px" style="font-family:'ArialMT', 'Arial', sans-serif;font-size:20px;">All BGP<tspan x="910.566px 916.123px " y="602.955px 602.955px "> C</tspan>onnections</text>
+            <text x="840.908px" y="644.264px" style="font-family:'ArialMT', 'Arial', sans-serif;font-size:20px;">Ask <tspan x="878.701px 892.041px " y="644.264px 644.264px ">Al</tspan>l Shelves for:</text>
+            <text x="840.908px" y="664.918px" style="font-family:'ArialMT', 'Arial', sans-serif;font-size:20px;">All Interfaces</text>
+            <text x="840.908px" y="706.227px" style="font-family:'ArialMT', 'Arial', sans-serif;font-size:20px;">Ask <tspan x="878.701px 892.041px " y="706.227px 706.227px ">Al</tspan>l Interfaces For:</text>
+            <text x="840.908px" y="726.881px" style="font-family:'ArialMT', 'Arial', sans-serif;font-size:20px;">All Conﬁguration</text>
+        </g>
+    </g>
+    <g transform="matrix(1,0,0,1,-10.9535,20.3423)">
+        <text x="1036.51px" y="415.809px" style="font-family:'ArialMT', 'Arial', sans-serif;font-size:50.244px;">I-BONE</text>
+        <text x="1036.51px" y="467.697px" style="font-family:'ArialMT', 'Arial', sans-serif;font-size:50.244px;">ROUTER</text>
+    </g>
+    <g transform="matrix(1,0,0,1,-78.2396,26.6015)">
+        <text x="99.197px" y="400.161px" style="font-family:'ArialMT', 'Arial', sans-serif;font-size:50.244px;">SQL<tspan x="197.869px 211.829px " y="400.161px 400.161px "> D</tspan>atabase</text>
+    </g>
+    <path d="M620.272,705.296L468.488,857.08L620.272,705.296Z" style="fill:none;stroke:black;stroke-width:8.6px;"/>
+    <path d="M621.837,702.166L621.837,855.516" style="fill:none;stroke:black;stroke-width:8.6px;"/>
+    <path d="M621.837,700.601L771.275,850.039" style="fill:none;stroke:black;stroke-width:8.6px;"/>
+    <path d="M463.793,911.848L531.862,979.917" style="fill:none;stroke:black;stroke-width:8.6px;"/>
+    <g transform="matrix(1,0,0,1,-577.408,25.0367)">
+        <text x="762.669px" y="789.794px" style="font-family:'ArialMT', 'Arial', sans-serif;font-size:50.244px;">Step 2- 10k</text>
+    </g>
+    <g transform="matrix(1,0,0,1,-43.8142,-26.6015)">
+        <text x="1435.53px" y="179.526px" style="font-family:'ArialMT', 'Arial', sans-serif;font-size:30px;">Step 1:</text>
+        <text x="1435.53px" y="210.507px" style="font-family:'ArialMT', 'Arial', sans-serif;font-size:30px;">T<tspan x="1452.74px 1462.73px " y="210.507px 210.507px ">ra</tspan>verse <tspan x="1559.45px 1579.47px " y="210.507px 210.507px ">Al</tspan>l Known</text>
+        <text x="1435.53px" y="241.488px" style="font-family:'ArialMT', 'Arial', sans-serif;font-size:30px;">I-Bone Routers in</text>
+        <text x="1435.53px" y="272.47px" style="font-family:'ArialMT', 'Arial', sans-serif;font-size:30px;">Seed List.</text>
+        <text x="1435.53px" y="334.433px" style="font-family:'ArialMT', 'Arial', sans-serif;font-size:30px;">Step 2-10k:</text>
+        <text x="1435.53px" y="365.414px" style="font-family:'ArialMT', 'Arial', sans-serif;font-size:30px;">T<tspan x="1452.74px 1462.73px " y="365.414px 365.414px ">ra</tspan>verse all L2</text>
+        <text x="1435.53px" y="396.396px" style="font-family:'ArialMT', 'Arial', sans-serif;font-size:30px;">Connected Devices</text>
+        <text x="1435.53px" y="427.377px" style="font-family:'ArialMT', 'Arial', sans-serif;font-size:30px;">Until <tspan x="1502.22px 1522.23px " y="427.377px 427.377px ">Al</tspan>l Devices <tspan x="1658.39px 1675.6px 1685.59px " y="427.377px 427.377px 427.377px ">Tra</tspan>versed</text>
+    </g>
+</svg>
