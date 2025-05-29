@@ -1,0 +1,42 @@
+@import url('https://fonts.googleapis.com/css2?family=Inter:wght@300;400;500;600;700;800&display=swap');
+@import './theme.css';
+
+/* CSS Reset */
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+html {
+  scroll-behavior: smooth;
+}
+body {
+  font-family: var(--font-family-primary);
+  color: var(--color-text-primary);
+  background: var(--color-background-primary);
+  min-height: 100vh;
+  line-height: 1.5;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+a {
+  color: var(--color-primary-teal);
+  text-decoration: none;
+  transition: color var(--transition-fast);
+}
+a:hover {
+  color: var(--color-secondary-green-hover);
+}
+button {
+  font-family: inherit;
+  font-size: 1rem;
+  cursor: pointer;
+  background: none;
+  border: none;
+  outline: none;
+}
+img, svg {
+  display: block;
+  max-width: 100%;
+  height: auto;
+} 
